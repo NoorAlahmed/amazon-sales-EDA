@@ -2,7 +2,7 @@
 
 ## Dataset Source
 This dataset was obtained from Kaggle and contains information about Amazon products including pricing, ratings, and categories.
-
+https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
 ## Number of Rows and Columns
 The dataset contains  1465 rows and 16 columns.
 
